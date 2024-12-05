@@ -4,12 +4,12 @@
 
 ## Skills
 - Frontend: React, Next.js, TypeScript
-- Backend: Node.js, Express
+- Backend: Node.js
 - UI: Tailwind CSS, shadcn
 
 ## Contact
 - Email: tajus@tajus.xyz
-- Portfolio: https://tajus.xyz
+- Portfolio: https://tajus.me
 
 ## Projects
 ### HireNiche
